@@ -1,6 +1,6 @@
 {
   "name": "gulp-jsonify-images",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Gulp plugin to create base64 string from images and write them into json file",
   "main": "index.js",
   "keywords": [
@@ -16,6 +16,10 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zgabievi/gulp-jsonify-images.git"
   },
   "dependencies": {
     "fs": "0.0.2",
