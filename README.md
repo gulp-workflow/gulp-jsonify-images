@@ -22,6 +22,6 @@ gulp.task('default', function() {
 ```
 
 ## Options
-**path** - destination to store file
-**filename** - name of the json file
-**type** - base64/utf8 or other string compressors
+- **path** - destination to store file
+- **filename** - name of the json file
+- **type** - base64/utf8 or other string compressors
