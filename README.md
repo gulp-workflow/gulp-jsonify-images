@@ -1,6 +1,7 @@
 # gulp-jsonify-images
 
 [![GitHub version](https://badge.fury.io/gh/zgabievi%2Fgulp-jsonify-images.svg)](http://badge.fury.io/gh/zgabievi%2Fgulp-jsonify-images)
+[![devDependency Status](https://david-dm.org/zgabievi/gulp-jsonify-images/dev-status.svg)](https://david-dm.org/zgabievi/gulp-jsonify-images#info=devDependencies)
 [![Dependency Status](https://david-dm.org/zgabievi/gulp-jsonify-images.svg)](https://david-dm.org/zgabievi/gulp-jsonify-images)
 
 ## Run command
