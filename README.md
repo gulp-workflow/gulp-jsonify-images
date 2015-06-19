@@ -1,5 +1,8 @@
 # gulp-jsonify-images
 
+[![GitHub version](https://badge.fury.io/gh/zgabievi%2Fgulp-jsonify-images.svg)](http://badge.fury.io/gh/zgabievi%2Fgulp-jsonify-images)
+[![Dependency Status](https://david-dm.org/zgabievi/gulp-jsonify-images.svg)](https://david-dm.org/zgabievi/gulp-jsonify-images)
+
 ## Run command
 ```
 npm i -D gulp-jsonify-images
