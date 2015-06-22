@@ -1,7 +1,7 @@
 # gulp-jsonify-images
 
 ![Mode](https://badge.fury.io/gh/zgabievi%2Fgulp-jsonify-images.svg)
-![Version](https://img.shields.io/npm/zgabievi/gulp-jsonify-images.svg)
+![Version](https://img.shields.io/npm/zgabievi/v/gulp-jsonify-images.svg)
 ![Issues](https://img.shields.io/github/issues/zgabievi/gulp-jsonify-images.svg)
 ![Forks](https://img.shields.io/github/forks/zgabievi/gulp-jsonify-images.svg)
 ![Stars](https://img.shields.io/github/stars/zgabievi/gulp-jsonify-images.svg)
